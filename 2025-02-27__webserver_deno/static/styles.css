@@ -1,0 +1,28 @@
+body 
+{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 
+{
+    color: darkblue;
+}
+hr 
+{
+    color: gray;
+}
+h2
+{
+    color: rgb(2, 105, 201);
+}
+button
+{
+    padding: 20px 100px;
+    background-color: darkcyan;
+    font-size: 20px;
+    
+}
+p
+{
+    color: black;
+}

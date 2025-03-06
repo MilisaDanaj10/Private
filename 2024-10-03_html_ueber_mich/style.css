@@ -1,0 +1,33 @@
+body 
+{
+    background-color: white;
+}
+h1
+{
+    font-family: Arial;
+    font-weight:bold;
+    color: darkblue;
+    text-decoration-line: underline;
+}
+div
+{
+    font-size: larger;
+    font-family: Arial;
+    color: black;
+    background-color: bisque;
+    padding: 10px;
+}
+hr
+{
+    color: darkred;
+}
+.b1
+{
+    color: black;
+    background-color: lightsteelblue;
+}
+.b2
+{
+    color: black;
+    background-color: lightgrey;
+}
