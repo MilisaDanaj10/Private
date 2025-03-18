@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-read main.js"
+  },
+  "imports": {
+    "hono": "https://deno.land/x/hono@v3.10.0/mod.ts",
+    "hono/": "https://deno.land/x/hono@v3.10.0/"
+}
+}

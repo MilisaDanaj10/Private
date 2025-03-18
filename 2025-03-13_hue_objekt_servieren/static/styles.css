@@ -1,0 +1,35 @@
+body 
+{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 
+{
+    color: darkblue;
+}
+
+hr
+{
+    border: 1px solid darkcyan;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button
+{
+    padding: 20px 100px;
+    background-color: rgb(255, 200, 0);
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+    
+}
+p
+{
+    color: black;
+}
+
+textarea {
+    margin-top: 20px;
+    display: block;
+}
